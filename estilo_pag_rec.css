@@ -1,0 +1,55 @@
+.Titles{
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(239, 255, 98);
+    justify-content: center;
+    justify-items: center;
+    width: 90%;
+    max-width: 1500px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
+}
+
+section{
+    width: 90%;
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+    background-color: aqua;
+    justify-items: center;
+}
+.Subtitulos{
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(239, 255, 98);
+    justify-content: center;
+    justify-items: center;
+    position:relative;top: 40px;
+}
+
+.frames{
+    position: relative; top: 40px;
+    margin: 20px auto;
+    justify-content: center;
+    margin-bottom: 20px auto;
+}
+
+.Backgrounds{
+    background-color: lightblue;
+}
+footer{
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(239, 255, 98);
+    justify-content: center;
+    justify-items: center;
+    width: 99%;
+    max-width: 1500px;
+    margin: 2px auto;
+    padding: 15px;
+}
